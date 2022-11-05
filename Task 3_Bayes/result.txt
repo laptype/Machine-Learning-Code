@@ -1,0 +1,50 @@
+----------
+-----[0, 1, 1, 1, 1]-----
+stemmer+Bernoulli
+Accuracy: 9480/10208 92.87%
+Accuracy: 2231/2552 87.42%
+-----[1, 0, 1, 1, 1]-----
+stemmer+Bernoulli
+Accuracy: 9470/10208 92.77%
+Accuracy: 2229/2552 87.34%
+-----[1, 1, 0, 1, 1]-----
+stemmer+Bernoulli
+Accuracy: 9449/10208 92.56%
+Accuracy: 2216/2552 86.83%
+-----[1, 1, 1, 0, 1]-----
+stemmer+Bernoulli
+Accuracy: 9504/10208 93.1%
+Accuracy: 2221/2552 87.03%
+-----[1, 1, 1, 1, 0]-----
+stemmer+Bernoulli
+Accuracy: 9595/10208 93.99%
+Accuracy: 2230/2552 87.38%
+-----[0, 0, 0, 0, 0]-----
+stemmer+Bernoulli
+Accuracy: 9574/10208 93.79%
+Accuracy: 2231/2552 87.42%
+----------
+-----[0, 1, 1, 1, 1]-----
+stemmer+TF
+Accuracy: 9480/10208 92.87%
+Accuracy: 2228/2552 87.3%
+-----[1, 0, 1, 1, 1]-----
+stemmer+TF
+Accuracy: 9463/10208 92.7%
+Accuracy: 2235/2552 87.58%
+-----[1, 1, 0, 1, 1]-----
+stemmer+TF
+Accuracy: 9451/10208 92.58%
+Accuracy: 2220/2552 86.99%
+-----[1, 1, 1, 0, 1]-----
+stemmer+TF
+Accuracy: 9500/10208 93.06%
+Accuracy: 2224/2552 87.15%
+-----[1, 1, 1, 1, 0]-----
+stemmer+TF
+Accuracy: 9587/10208 93.92%
+Accuracy: 2233/2552 87.5%
+-----[0, 0, 0, 0, 0]-----
+stemmer+TF
+Accuracy: 9569/10208 93.74%
+Accuracy: 2227/2552 87.26%
